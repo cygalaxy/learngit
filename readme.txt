@@ -1,3 +1,3 @@
 Git is a distributed version control system.
 Git is free software.
-Git is a best control system.
+Git is a best and fast control system.
